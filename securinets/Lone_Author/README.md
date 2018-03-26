@@ -109,7 +109,6 @@ Image Size                      : 175x175
 Megapixels                      : 0.031
 
 ```
-![Alt text](_lone_fixed.zip.extracted/export.png?raw=true "Title")
-Second part of flag is: n_tHe_p4RK_T0mOrrOW
+![Alt text](_lone_fixed.zip.extracted/export.png?raw=true "export.png")
 
-flag : Flag{M33t_M3_1n_tHe_p4RK_T0mOrrOW}
+Fina flag is : Flag{M33t_M3_1n_tHe_p4RK_T0mOrrOW}
