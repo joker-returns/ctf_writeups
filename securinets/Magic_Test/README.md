@@ -44,3 +44,8 @@ app.listen(3000, () => console.log('Node Task app listening on port 3000!'));
 
 ```
 We were give this file. To view flag we need to make sure that priority >= 0 should be false. priority is power of 2 and it can never be negative because 2 is positive. We know that getTimestamp(Date) computes time from " 00:00:00 on 1 January 1970". So using any time before it will return negative value so getAsciiCode(username)+ getTimestamp(birthDay) will turn into a string which is not a number(NaN). Javascript cannot compare a NaN to integer so priority >= 0 will be false and else block is executed.
+
+Flag is alerted as shown in the image
+
+![Alt text](flag.png?raw=true "flag.png")
+![Alt text](sol.PNG?raw=true "sol.PNG")
